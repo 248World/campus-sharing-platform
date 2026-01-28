@@ -13,27 +13,26 @@ A collaborative platform for university students to share resources including te
 
 ## 👥 Team Members
 - Fahnbulleh Varney D
-- Imad Oubrahim
-- Abdelouahed Mauoufi
-- Youssef Boutuao
+- Imad Oubrahimi
+- Abdelouahed Maaroufi
+- Youssef Boutoual
 
 ## 🛠️ Tech Stack
-- Backend: Node.js
+- Backend: python
 - Frontend: React
-- Database: MongoDB
-- Authentication: OAuth
+- Database: SQL
+- Authentication: jwt
 
 🔄 Agile Development Tracking
-- **Jira Board**: [https://your-team.atlassian.net/jira/software/projects/CAMPUS/board](Link)
-- **Mural Brainstorming**: [https://app.mural.co/t/...](Link)
+- **Jira Board**: https://varfahnbulleh-1767495930948.atlassian.net/jira/software/projects/CSP/boards/101
+- **Mural Brainstorming**: https://app.mural.co/t/hardworkers4783/m/hardworkers4783/1768210537012/a6e5857a8619284703f1534321d8a0e4e55f2ef1?sender=ua1def59b1bb87e6bc10f6847)
 - **Sprint Planning**: Bi-weekly sprints tracked in Jira
-- **Daily Standups**: [Time] via [Zoom/Discord]
-- **GitHub Projects**: [Link to GitHub project board if using]
+- **Daily Standups**: via Discord
 
 ## 🚀 Getting Started
 ```bash
 # Clone repository
-git clone https://github.com/[username]/campus-sharing-platform.git
+git clone https://github.com/248World/campus-sharing-platform.git
 
 # Install dependencies
 cd campus-sharing-platform
